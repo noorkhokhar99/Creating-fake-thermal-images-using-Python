@@ -5,6 +5,9 @@ Unfortunately thermographic cameras are quite expensive and complicated to handl
 At the chair we are using Python and OpenCV to test the image processing algorithms. Using a webcam is also really easy in Python so lets begin from this basic example:
 
 
+This is the result of this first approach.
+
+
 <img src="https://github.com/noorkhokhar99/Creating-fake-thermal-images-using-Python/blob/main/Screen%20Shot%201444-02-20%20at%208.53.25%20PM.png">
 
 
