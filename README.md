@@ -19,3 +19,4 @@ This is the result of this first approach.
 This all depends heavily on the lightning conditions in the room. My face, hair, t-shirt and the door mostly consists of darker colors (so less intensity in the grayscale image). Since my body is usually warmer than the room I want the darker colors to be mapped to the higher temperatures. Fortunately the matplotlip colormaps also come with a inverted mode (just append _r to the end of the colormaps name). Also try changing the parameters vmin and vmax to get a more dynamic colormap.
 
 
+https://matplotlib.org/2.0.2/examples/color/colormaps_reference.html
